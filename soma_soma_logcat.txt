@@ -1,0 +1,8 @@
+07-14 20:41:02.330  5549  5549 D SOMA    : Button clicked
+07-14 20:41:02.331  5549  5549 D SOMA    : onVoiceInput called with text: Привет, SOMA!
+07-14 20:41:02.331  5549  5549 D SOMA    : isLoading set to true
+07-14 20:41:02.331  5549  5549 D SOMA    : response set, isLoading set to false
+07-14 20:41:02.530  5549  5549 D SOMA    : Button clicked
+07-14 20:41:02.530  5549  5549 D SOMA    : onVoiceInput called with text: Привет, SOMA!
+07-14 20:41:02.531  5549  5549 D SOMA    : isLoading set to true
+07-14 20:41:02.531  5549  5549 D SOMA    : response set, isLoading set to false

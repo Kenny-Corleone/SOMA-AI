@@ -1,0 +1,1 @@
+{"className":"com.example.soma_ai_new.Hilt_HotwordReceiver","classAnnotations":["dagger.hilt.android.internal.OnReceiveBytecodeInjectionMarker"],"interfaces":[],"superClasses":["android.content.BroadcastReceiver","java.lang.Object"]}

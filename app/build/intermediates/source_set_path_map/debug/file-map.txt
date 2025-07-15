@@ -1,0 +1,65 @@
+com.example.soma_ai_new.app-jetified-ui-tooling-release-0 /home/oem/.gradle/caches/transforms-3/0bd270c75255e1d91b1b019a3bc9b7ea/transformed/jetified-ui-tooling-release/res
+com.example.soma_ai_new.app-jetified-ui-unit-release-1 /home/oem/.gradle/caches/transforms-3/1013876054c919358bb85800d29e919a/transformed/jetified-ui-unit-release/res
+com.example.soma_ai_new.app-navigation-common-ktx-2.7.7-2 /home/oem/.gradle/caches/transforms-3/104a28694a682e47749ff71d834670ab/transformed/navigation-common-ktx-2.7.7/res
+com.example.soma_ai_new.app-room-runtime-2.6.1-3 /home/oem/.gradle/caches/transforms-3/15309f811723ef5257722ddb9fc551c3/transformed/room-runtime-2.6.1/res
+com.example.soma_ai_new.app-jetified-room-ktx-2.6.1-4 /home/oem/.gradle/caches/transforms-3/1eb5473ac7d7f886c16edb18680f7515/transformed/jetified-room-ktx-2.6.1/res
+com.example.soma_ai_new.app-jetified-porcupine-android-3.0.3-5 /home/oem/.gradle/caches/transforms-3/246bda3ff772af58bff1e8390f5bfdea/transformed/jetified-porcupine-android-3.0.3/res
+com.example.soma_ai_new.app-jetified-activity-ktx-1.7.1-6 /home/oem/.gradle/caches/transforms-3/2d97ddcb0c9256fa1713891d22644895/transformed/jetified-activity-ktx-1.7.1/res
+com.example.soma_ai_new.app-media-1.7.0-7 /home/oem/.gradle/caches/transforms-3/2f32580ce5f7f438ff723feed49fe31e/transformed/media-1.7.0/res
+com.example.soma_ai_new.app-jetified-ui-release-8 /home/oem/.gradle/caches/transforms-3/3619b651c49e741fb3b4e0f669f4c9dd/transformed/jetified-ui-release/res
+com.example.soma_ai_new.app-jetified-material-release-9 /home/oem/.gradle/caches/transforms-3/3aa7cac3eab99a1e3a80b70fced446da/transformed/jetified-material-release/res
+com.example.soma_ai_new.app-jetified-startup-runtime-1.1.1-10 /home/oem/.gradle/caches/transforms-3/3eef24deec0cb93ad1815e15e2903051/transformed/jetified-startup-runtime-1.1.1/res
+com.example.soma_ai_new.app-core-1.12.0-11 /home/oem/.gradle/caches/transforms-3/45c206406546ec2a6cecb7dfdab3270c/transformed/core-1.12.0/res
+com.example.soma_ai_new.app-jetified-navigation-compose-2.7.7-12 /home/oem/.gradle/caches/transforms-3/45faaac9bcd6cc3002bc1021129cea37/transformed/jetified-navigation-compose-2.7.7/res
+com.example.soma_ai_new.app-jetified-emoji2-1.3.0-13 /home/oem/.gradle/caches/transforms-3/50d1fdcc3e6d1283d52c6b74bfc82c2e/transformed/jetified-emoji2-1.3.0/res
+com.example.soma_ai_new.app-jetified-savedstate-ktx-1.2.1-14 /home/oem/.gradle/caches/transforms-3/5120e4ca32031440d508bfeefcbeda3f/transformed/jetified-savedstate-ktx-1.2.1/res
+com.example.soma_ai_new.app-jetified-foundation-layout-release-15 /home/oem/.gradle/caches/transforms-3/5480d75ff1238e735db0d736c7578daa/transformed/jetified-foundation-layout-release/res
+com.example.soma_ai_new.app-jetified-jna-5.13.0-16 /home/oem/.gradle/caches/transforms-3/58c315952df73333856807213fb92943/transformed/jetified-jna-5.13.0/res
+com.example.soma_ai_new.app-jetified-android-database-sqlcipher-4.5.4-17 /home/oem/.gradle/caches/transforms-3/5b3cec044ca66e3318808cea9db695f4/transformed/jetified-android-database-sqlcipher-4.5.4/res
+com.example.soma_ai_new.app-jetified-material-ripple-release-18 /home/oem/.gradle/caches/transforms-3/5c102857a0597f1a4bb5d6b19b412bf9/transformed/jetified-material-ripple-release/res
+com.example.soma_ai_new.app-jetified-runtime-release-19 /home/oem/.gradle/caches/transforms-3/65d77a2cf09b764a0dc8a0b5a76ab682/transformed/jetified-runtime-release/res
+com.example.soma_ai_new.app-jetified-ui-test-manifest-1.6.4-20 /home/oem/.gradle/caches/transforms-3/6824e2d2ca41d2bad2741529bd74c3c5/transformed/jetified-ui-test-manifest-1.6.4/res
+com.example.soma_ai_new.app-lifecycle-runtime-2.6.2-21 /home/oem/.gradle/caches/transforms-3/6c418571e072ff8ed0096efb6413bf52/transformed/lifecycle-runtime-2.6.2/res
+com.example.soma_ai_new.app-sqlite-framework-2.4.0-22 /home/oem/.gradle/caches/transforms-3/6f0021a2328b526f2bbf7e757dc24107/transformed/sqlite-framework-2.4.0/res
+com.example.soma_ai_new.app-jetified-core-ktx-1.12.0-23 /home/oem/.gradle/caches/transforms-3/76611ff17e2aa121953c58f31ce0f0e6/transformed/jetified-core-ktx-1.12.0/res
+com.example.soma_ai_new.app-jetified-customview-poolingcontainer-1.0.0-24 /home/oem/.gradle/caches/transforms-3/766c3155676818e669126668d192db9a/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.example.soma_ai_new.app-jetified-animation-core-release-25 /home/oem/.gradle/caches/transforms-3/77af5ed9996915f53c299e299b5a5d91/transformed/jetified-animation-core-release/res
+com.example.soma_ai_new.app-jetified-activity-compose-1.7.1-26 /home/oem/.gradle/caches/transforms-3/798fb0e9ee0c6a2e8a24c8cda091f9f5/transformed/jetified-activity-compose-1.7.1/res
+com.example.soma_ai_new.app-jetified-lifecycle-process-2.6.2-27 /home/oem/.gradle/caches/transforms-3/799d405238aad5bc108b0e7b24a27111/transformed/jetified-lifecycle-process-2.6.2/res
+com.example.soma_ai_new.app-core-runtime-2.2.0-28 /home/oem/.gradle/caches/transforms-3/7a2d9f26974f30c0774e4d4509d50f34/transformed/core-runtime-2.2.0/res
+com.example.soma_ai_new.app-lifecycle-livedata-2.6.2-29 /home/oem/.gradle/caches/transforms-3/830774f5a6fd78faa69c5b32d8b81d0b/transformed/lifecycle-livedata-2.6.2/res
+com.example.soma_ai_new.app-navigation-common-2.7.7-30 /home/oem/.gradle/caches/transforms-3/84ced4bd17444922e96059174a1998f3/transformed/navigation-common-2.7.7/res
+com.example.soma_ai_new.app-jetified-annotation-experimental-1.4.0-31 /home/oem/.gradle/caches/transforms-3/866cfbfa7eab9fd93f0c28dc4a24b430/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.soma_ai_new.app-jetified-activity-1.7.1-32 /home/oem/.gradle/caches/transforms-3/8869afe11face862df510b7c10919521/transformed/jetified-activity-1.7.1/res
+com.example.soma_ai_new.app-jetified-hilt-navigation-compose-1.2.0-33 /home/oem/.gradle/caches/transforms-3/8b43184c4b40aa9042fc9d062fdb5509/transformed/jetified-hilt-navigation-compose-1.2.0/res
+com.example.soma_ai_new.app-jetified-animation-release-34 /home/oem/.gradle/caches/transforms-3/94f5c802bfcb67c0ba245b4511ad05d9/transformed/jetified-animation-release/res
+com.example.soma_ai_new.app-jetified-hilt-navigation-1.2.0-35 /home/oem/.gradle/caches/transforms-3/9d5d1686d9a8b868db521f71de3a334b/transformed/jetified-hilt-navigation-1.2.0/res
+com.example.soma_ai_new.app-navigation-runtime-ktx-2.7.7-36 /home/oem/.gradle/caches/transforms-3/b02393ba46b76379ad625ea048b766b4/transformed/navigation-runtime-ktx-2.7.7/res
+com.example.soma_ai_new.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-37 /home/oem/.gradle/caches/transforms-3/b211dce838e08ade734a7a5738abe7ed/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.example.soma_ai_new.app-jetified-lifecycle-runtime-ktx-2.6.2-38 /home/oem/.gradle/caches/transforms-3/b549a603b26e19622dfb91b696fabe5d/transformed/jetified-lifecycle-runtime-ktx-2.6.2/res
+com.example.soma_ai_new.app-jetified-ui-text-release-39 /home/oem/.gradle/caches/transforms-3/b5d9e89f7943f099a3c87aa6a14e57b6/transformed/jetified-ui-text-release/res
+com.example.soma_ai_new.app-jetified-ui-tooling-preview-release-40 /home/oem/.gradle/caches/transforms-3/b8818f4de7fadc9a45ec7e207047b8cb/transformed/jetified-ui-tooling-preview-release/res
+com.example.soma_ai_new.app-jetified-ui-util-release-41 /home/oem/.gradle/caches/transforms-3/b8f0c78a552893a69464b603cfa0478c/transformed/jetified-ui-util-release/res
+com.example.soma_ai_new.app-lifecycle-livedata-core-2.6.2-42 /home/oem/.gradle/caches/transforms-3/be5074d9a16513d598f7021ee14879d1/transformed/lifecycle-livedata-core-2.6.2/res
+com.example.soma_ai_new.app-lifecycle-viewmodel-2.6.2-43 /home/oem/.gradle/caches/transforms-3/c240adecb261efad29acbdfb11d41e26/transformed/lifecycle-viewmodel-2.6.2/res
+com.example.soma_ai_new.app-jetified-runtime-saveable-release-44 /home/oem/.gradle/caches/transforms-3/c4d1c96131cdf4785be865268b592731/transformed/jetified-runtime-saveable-release/res
+com.example.soma_ai_new.app-jetified-ui-tooling-data-release-45 /home/oem/.gradle/caches/transforms-3/c4d962d37a1df44686dcd46637398e2a/transformed/jetified-ui-tooling-data-release/res
+com.example.soma_ai_new.app-jetified-material-icons-core-release-46 /home/oem/.gradle/caches/transforms-3/c664b2ffdd5fb572450e75b7d8f642e8/transformed/jetified-material-icons-core-release/res
+com.example.soma_ai_new.app-jetified-ui-geometry-release-47 /home/oem/.gradle/caches/transforms-3/c8e9d5f5674f9b39d08563ee3a217e9e/transformed/jetified-ui-geometry-release/res
+com.example.soma_ai_new.app-jetified-foundation-release-48 /home/oem/.gradle/caches/transforms-3/cbeba486e4bfa80d61cfebf899e38341/transformed/jetified-foundation-release/res
+com.example.soma_ai_new.app-jetified-lifecycle-viewmodel-ktx-2.6.2-49 /home/oem/.gradle/caches/transforms-3/d1419f374a71a70991fed01b8e3a93d1/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/res
+com.example.soma_ai_new.app-jetified-material3-release-50 /home/oem/.gradle/caches/transforms-3/d42249a1517a93fbd5240e29e0971462/transformed/jetified-material3-release/res
+com.example.soma_ai_new.app-navigation-runtime-2.7.7-51 /home/oem/.gradle/caches/transforms-3/d7d96a0d4cdb03b5707643ff2d68d1ac/transformed/navigation-runtime-2.7.7/res
+com.example.soma_ai_new.app-jetified-profileinstaller-1.3.0-52 /home/oem/.gradle/caches/transforms-3/daa01d4efca3f68dee97da8b21150e99/transformed/jetified-profileinstaller-1.3.0/res
+com.example.soma_ai_new.app-jetified-lifecycle-viewmodel-compose-2.6.2-53 /home/oem/.gradle/caches/transforms-3/e516a287a66dcb9c59239c133b4d398a/transformed/jetified-lifecycle-viewmodel-compose-2.6.2/res
+com.example.soma_ai_new.app-jetified-savedstate-1.2.1-54 /home/oem/.gradle/caches/transforms-3/e8cd736f0c0ab06fcb6af1c4d2806ef0/transformed/jetified-savedstate-1.2.1/res
+com.example.soma_ai_new.app-sqlite-2.4.0-55 /home/oem/.gradle/caches/transforms-3/ebf40b85172cc0be484c64f49cb9d36c/transformed/sqlite-2.4.0/res
+com.example.soma_ai_new.app-jetified-ui-graphics-release-56 /home/oem/.gradle/caches/transforms-3/eed970b7508a27e2d71080e9e385c04c/transformed/jetified-ui-graphics-release/res
+com.example.soma_ai_new.app-fragment-1.5.1-57 /home/oem/.gradle/caches/transforms-3/f2d80226330a51dd9425e27c8100f8bd/transformed/fragment-1.5.1/res
+com.example.soma_ai_new.app-pngs-58 /home/oem/Desktop/SOMA AI/app/build/generated/res/pngs/debug
+com.example.soma_ai_new.app-resValues-59 /home/oem/Desktop/SOMA AI/app/build/generated/res/resValues/debug
+com.example.soma_ai_new.app-packageDebugResources-60 /home/oem/Desktop/SOMA AI/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.soma_ai_new.app-packageDebugResources-61 /home/oem/Desktop/SOMA AI/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.soma_ai_new.app-merged_res-62 /home/oem/Desktop/SOMA AI/app/build/intermediates/merged_res/debug
+com.example.soma_ai_new.app-debug-63 /home/oem/Desktop/SOMA AI/app/src/debug/res
+com.example.soma_ai_new.app-main-64 /home/oem/Desktop/SOMA AI/app/src/main/res
