@@ -1,28 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- Основные permissions -->
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    
+    <!-- Для фонового сервиса и Hotword detection -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MICROPHONE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    
+    <!-- Для TTS -->
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    
+    <!-- Для хранения данных -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    
+    <!-- Для системных операций и диагностики -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    
+    <!-- Для самообучения и модификации кода -->
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
 
     <application
         android:name=".App"
         android:allowBackup="true"
-        android:label="SOMA AI NEW"
+        android:label="SOMA AI"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SOMA">
+        android:theme="@style/Theme.SOMA"
+        android:requestLegacyExternalStorage="true">
         
-        <activity android:name=".MainActivity" android:exported="true">
+        <activity 
+            android:name=".MainActivity" 
+            android:exported="true"
+            android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         
-        <service android:name=".HotwordService" android:enabled="true" android:exported="false" />
-        <receiver android:name=".HotwordReceiver" />
+        <!-- Сервисы -->
+        <service 
+            android:name=".services.HotwordService" 
+            android:enabled="true" 
+            android:exported="false"
+            android:foregroundServiceType="microphone" />
+            
+        <service 
+            android:name=".services.VoiceAssistantService" 
+            android:enabled="true" 
+            android:exported="false"
+            android:foregroundServiceType="microphone" />
+            
+        <service 
+            android:name=".services.MQTTService" 
+            android:enabled="true" 
+            android:exported="false" />
+            
+        <service 
+            android:name=".services.SelfLearningService" 
+            android:enabled="true" 
+            android:exported="false" />
+        
+        <!-- Receivers -->
+        <receiver 
+            android:name=".receivers.HotwordReceiver" 
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="com.example.soma_ai_new.HOTWORD_DETECTED" />
+            </intent-filter>
+        </receiver>
         
     </application>
 
